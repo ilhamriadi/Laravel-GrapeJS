@@ -73,5 +73,12 @@ These instructions will get you a copy of the project up and running on your loc
     ```
 
 ### Usage
-
 Visit `http://localhost:8000` in your browser to access the web-based landing page generator.
+
+---
+
+### Credits
+**Original Repository:** [SeptiawanAjiP/pagebuilder](https://github.com/SeptiawanAjiP)
+
+### Author
+Modified by: [ilhamriadi](https://github.com/ilhamriadi)
